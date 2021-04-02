@@ -5,7 +5,4 @@
 - 📫 How to reach me , you can use your phone and call the 06.10.50.47.11
                        Send me a mail to the adress arthur.desbonnet@gmail.com
 
-<!---
-athuuu/athuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love coding! I just want learn too much things like this I can help my best for the companies who hire me !
